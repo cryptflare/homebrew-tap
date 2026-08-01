@@ -18,9 +18,9 @@
 class CryptflareCli < Formula
   desc "Manage CryptFlare secrets, pods, and environments from the terminal"
   homepage "https://cryptflare.com/cli"
-  url "https://registry.npmjs.org/@cryptflare/cli/-/cli-0.7.0.tgz"
-  version "0.7.0"
-  sha256 "51ad7bd270086807d48b7fe579c52e8badd550eff69534a3268fdeab689651d6"
+  url "https://registry.npmjs.org/@cryptflare/cli/-/cli-0.7.1.tgz"
+  version "0.7.1"
+  sha256 "469d3fe309b5e90cda772992caf36077b44e6cb98e282b8a504549465a0bef6f"
   license "Apache-2.0"
 
   depends_on "node@22"
